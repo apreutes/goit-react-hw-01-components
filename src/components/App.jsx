@@ -1,3 +1,5 @@
+import user from '../materials/user.json'
+
 export const App = () => {
   return (
     <div
